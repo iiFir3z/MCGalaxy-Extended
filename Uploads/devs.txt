@@ -1,4 +1,2 @@
-devs:Hetal+
-mods:Goodly+
-devs:venom983+
-devs:UclCommander+
+devs:CounterTerrorist+
+devs:FireTheFried+
