@@ -1,2 +1,3 @@
-devs:CounterTerrorist+
+mods:CounterTerrorist+
 devs:FireTheFried+
+mods:Goodlyay+
